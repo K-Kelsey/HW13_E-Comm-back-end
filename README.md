@@ -19,7 +19,7 @@ To install this app so that it functions properly, open the integrated terminal 
 You can use this project to allow users to add new products, tags, and categories to a dataset. These can be used to help sort and find products based on product names, products based on category, by price or by stock. The user will setup a server using the npm packages Node and Sequelize to build and modify the database. Insomonia is used to test the different user requests.
 
 ##Example
-Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the employee constructors were built:
+Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the these different data sets relate to one another:
 
 ![model set up](images/model.png)
 ![grabbing the data](images/getroutes.png)
