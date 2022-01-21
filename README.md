@@ -4,7 +4,7 @@
 ## INSTRUCTIONS
 This project is designed to take to allow user to create, edit and delete data in an existing database. 
 
-##Table of Contents
+## Table of Contents
 *[Installation:] (#installation)
 *[Usage:] (#usage)
 *[License:](license)
@@ -12,13 +12,13 @@ This project is designed to take to allow user to create, edit and delete data i
 *[Testing:] (#tests)
 *[Questions?](#questions)
 
-##Installation
+## Installation
 To install this app so that it functions properly, open the integrated terminal tied to the current project folder, then run 'npm install' in your terminal. This should download all necessary packages.
 
-##Usage
+## Usage
 You can use this project to allow users to add new products, tags, and categories to a dataset. These can be used to help sort and find products based on product names, products based on category, by price or by stock. The user will setup a server using the npm packages Node and Sequelize to build and modify the database. Insomonia is used to test the different user requests.
 
-##Example
+## Example
 Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the these different data sets relate to one another:
 
 ![model set up](images/model.png)
@@ -29,13 +29,15 @@ Here you can see some key elements within the code, that ensures that these obje
             This project is license under the MIT license
             
 
-##Contributing
+## Contributing
 Users can contribute to this project by playing with the code given and identifying more elaborate features that can be added to this program!
 
-##Tests
+## Tests
 This project can be tested by installing the necessary packages, seeding the database then running the program on your local server to be tested via insomnia, postman or tools alike.
 
-##Questions
+You can find a walkthrough tutorial of me testing the application via the YouTube link: (https://youtu.be/jg5YVzsNnmk)
+
+## Questions
 
 
     If you have any questions regarding the repository published, please feel free to reach out to me at kadenkelsey33@gmail.com,
